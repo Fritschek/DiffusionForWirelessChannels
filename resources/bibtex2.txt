@@ -1,0 +1,7 @@
+@INPROCEEDINGS{10622251,
+  author={Kim, Muah and Fritschek, Rick and Schaefer, Rafael F.},
+  booktitle={ICC 2024 - IEEE International Conference on Communications}, 
+  title={Robust Generation of Channel Distributions with Diffusion Models}, 
+  year={2024},
+  pages={330-335},
+  doi={10.1109/ICC51166.2024.10622251}}
